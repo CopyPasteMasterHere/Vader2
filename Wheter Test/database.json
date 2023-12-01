@@ -1,0 +1,14 @@
+{
+   "data": [
+      {
+         "test": "1",
+         "cloudy": "14",
+         "clearsky": "12",
+         "thunder": "10",
+         "fair": "12",
+         "partlycloudy": "14",
+         "hours_after_sunrise": "5",
+         "decision_num": "8"
+      }
+   ]
+}

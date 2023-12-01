@@ -1,0 +1,23 @@
+{
+   "data": [
+      {
+         "cloudy": "13",
+         "partlycloudy": "13"
+      },
+      {
+         "partlycloudy": "13"
+      },
+      {
+         "fair": "10"
+      },
+      {
+         "thunder": "10"
+      },
+      {
+         "clearsky": "10"
+      },
+      {
+         "hours_after_sunrise": "5"
+      }
+   ]
+}

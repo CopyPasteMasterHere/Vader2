@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Weather</title>
+</head>
+<body>
+
+    <h1>Information</h1>
+    <h2>Total score: {{score}}</h2>
+    <h2>Weather five hours after sunrise: {{weather}}</h2>
+    <h2>Sunset : {{ sunset}} Sunrise: {{ sunrise}}</h2>
+    <h2>Weight tabel :{{sym_dict}}</h2>
+
+    <form action="{{ url_for("hello")}}" method="post">
+
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="subName" placeholder="0">
+        <label for="value">New Value:</label>
+        <input type="int" id="value" name="subValue" placeholder="0">
+        <button type="submit">Submit</button>
+
+</body>
+</html>
